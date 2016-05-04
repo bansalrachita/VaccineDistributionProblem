@@ -1,7 +1,7 @@
-# VaccineDistributionProblem
+# Vaccine Distribution System Problem
 ##Pre-requisites
- *Java SWING
- *Java development ID
+ * Java SWING
+ * Java development ID
 
 ##Problem Statement
 The objective of this research project is to build a vaccine inventory management and distribution system that will 
