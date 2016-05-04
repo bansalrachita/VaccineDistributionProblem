@@ -26,5 +26,5 @@ stockpile and operation research on the vaccine ordering in each state.
 5. Satellite Clinics: Maintains its own vaccine inventory 
 
 ##Object Model Diagram
-![alt text]("https://github.com/bansalrachita/VaccineDistributionProblem/blob/master/NationalVaccineDistributionSystem/src/images/bojectmodel.png"object model")
+![alt text](https://github.com/bansalrachita/VaccineDistributionProblem/blob/master/NationalVaccineDistributionSystem/src/images/bojectmodel.png "object model")
   
