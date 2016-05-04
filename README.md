@@ -1,7 +1,7 @@
 # Vaccine Distribution System Problem
 ##Pre-requisites
  * Java SWING
- * Java development ID
+ * Java development IDE
 
 ##Problem Statement
 The objective of this research project is to build a vaccine inventory management and distribution system that will 
@@ -9,7 +9,7 @@ operate at the national, state and local levels. The methodology to accomplish t
 engineering technology to improve the efficiency, accountability and the ability to respond to safety problems and 
 public health crisis. 
 
-##Soution
+##Solution
 The solution is to come up with software implementation of the solution and to be able to 
 address the vaccine, vaccine distribution, provider ordering (hospitals and clinics), and the operation of the national 
 stockpile and operation research on the vaccine ordering in each state.
